@@ -1,0 +1,17 @@
+EDUADMISSIONS SEO DEPLOYMENT GUIDE
+
+1. Upload every file in this folder to the root of the GitHub Pages repository.
+2. Keep the filenames exactly as provided, especially index.html, CNAME, robots.txt and sitemap.xml.
+3. In GitHub: Settings > Pages > Deploy from a branch > main > /(root).
+4. Confirm these URLs open:
+   https://eduadmissions.in/
+   https://eduadmissions.in/robots.txt
+   https://eduadmissions.in/sitemap.xml
+5. In Google Search Console, verify eduadmissions.in and submit sitemap.xml.
+6. Use URL Inspection to request indexing for the homepage and engineering-districts.html.
+
+IMPORTANT
+- First position in Google cannot be guaranteed.
+- Keep college information accurate and update outdated admission-year details.
+- Add original college descriptions, fees, eligibility, placement data and verified sources over time.
+- Do not copy descriptions from other college websites.
