@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Apply for College Admission | EduAdmissions</title>
+<meta name="description" content="Submit an admission enquiry for your selected engineering college through EduAdmissions.in.">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f5f7fb;color:#172033}
+header{background:#fff;padding:18px max(20px,calc((100% - 1100px)/2));box-shadow:0 2px 14px #0001}
+.logo{font-size:23px;font-weight:900;color:#173b8f;text-decoration:none}.logo span{color:#e87d20}
+.hero{background:linear-gradient(110deg,#102b69,#1d57ca);color:#fff;padding:42px 20px}.hero>div{max-width:900px;margin:auto}
+.hero h1{margin:0 0 8px;font-size:34px}.hero p{margin:0;color:#dbe6ff}
+.wrap{max-width:900px;margin:28px auto 60px;padding:0 20px}.card{background:#fff;border-radius:18px;padding:28px;box-shadow:0 8px 28px #00000012}
+.selected{padding:16px;background:#eef4ff;border-radius:12px;margin-bottom:22px;border-left:4px solid #173b8f}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.field{display:flex;flex-direction:column}.full{grid-column:1/-1}
+label{font-weight:700;margin-bottom:6px}input,select,textarea{padding:13px;border:1px solid #ccd3df;border-radius:9px;font:inherit}
+textarea{min-height:100px;resize:vertical}.submit{margin-top:20px;width:100%;padding:14px;border:0;border-radius:10px;background:#e87d20;color:#fff;font-weight:800;font-size:16px;cursor:pointer}
+.note{font-size:13px;color:#68738a;margin-top:12px}.back{display:inline-block;margin-top:18px;color:#173b8f;font-weight:700;text-decoration:none}
+@media(max-width:650px){.grid{grid-template-columns:1fr}.full{grid-column:auto}.hero h1{font-size:28px}}
+</style></head><body>
+<header><a class="logo" href="index.html">EDU<span>ADMISSIONS</span></a></header>
+<section class="hero"><div><h1>College Admission Enquiry</h1><p>Complete the form for your selected college. Our team can use these details to follow up on your enquiry.</p></div></section>
+<main class="wrap"><div class="card">
+<div class="selected"><strong>Selected College</strong><div id="collegeName">College</div><small id="districtName"></small></div>
+<form id="applyForm">
+<div class="grid">
+<div class="field"><label>Student Name *</label><input name="studentName" required></div>
+<div class="field"><label>Mobile Number *</label><input name="mobile" inputmode="numeric" pattern="[0-9]{10}" maxlength="10" required></div>
+<div class="field"><label>Email</label><input type="email" name="email"></div>
+<div class="field"><label>District *</label><input name="studentDistrict" required></div>
+<div class="field"><label>Preferred Course *</label><select name="course" required><option value="">Select course</option><option>B.E. / B.Tech</option><option>B.Arch</option><option>Other Engineering Program</option></select></div>
+<div class="field"><label>12th Mark / Percentage</label><input name="mark" placeholder="Example: 85%"></div>
+<div class="field full"><label>Message</label><textarea name="message" placeholder="Course, branch or admission question"></textarea></div>
+</div>
+<button class="submit" type="submit">Submit Admission Enquiry</button>
+<div class="note">Demo front-end form: connect this form to your preferred email, Google Sheet, CRM or backend before collecting live enquiries.</div>
+</form>
+<a class="back" id="backLink" href="engineering-districts.html">← Back to college</a>
+</div></main>
+<script>
+const p=new URLSearchParams(location.search);
+const name=p.get('name')||'Selected College', district=p.get('district')||'', no=p.get('college')||'';
+collegeName.textContent=name; districtName.textContent=district?district.replaceAll('-',' '):'';
+document.title='Apply to '+name+' | EduAdmissions';
+backLink.href=district&&no?'college-details.html?district='+encodeURIComponent(district)+'&college='+encodeURIComponent(no):'engineering-districts.html';
+applyForm.addEventListener('submit',e=>{e.preventDefault();alert('Enquiry form is ready. Connect it to your backend/Google Sheet before using it for live submissions.');});
+</script></body></html>

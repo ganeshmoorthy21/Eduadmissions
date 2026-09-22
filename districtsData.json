@@ -1,0 +1,1814 @@
+[
+  {
+    "slug": "chengalpattu",
+    "name": "Chengalpattu",
+    "zone": "Chennai Metro Region",
+    "count": 8,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "SRM Institute of Science and Technology (Main Campus)",
+        "location": "Kattankulathur",
+        "address": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+        "type": "Deemed University",
+        "image": "assets/chengalpattu/srm-institute-of-science-and-technology.webp"
+      },
+      {
+        "sno": 2,
+        "name": "Sri Sivasubramaniya Nadar College of Engineering",
+        "location": "Kalavakkam, OMR",
+        "address": "SH 49A, Kalavakkam, Thaiyur, Tamil Nadu 603110",
+        "type": "Self-Financing",
+        "image": "assets/chengalpattu/sri-sivasubramaniya-nadar-college-of-engineering.webp"
+      },
+      {
+        "sno": 3,
+        "name": "VIT Chennai",
+        "location": "Kelambakkam-Vandalur Road",
+        "address": "Kelambakkam - Vandalur Rd, Melakottaiyur, Chennai, Tamil Nadu 600127",
+        "type": "Deemed University",
+        "image": "assets/chengalpattu/vit-chennai.webp"
+      },
+      {
+        "sno": 4,
+        "name": "B.S. Abdur Rahman Crescent Institute of Science and Technology",
+        "location": "Vandalur",
+        "address": "120 Seethakathi Estate, GST Rd, Vandalur, Tamil Nadu 600048",
+        "type": "Deemed University",
+        "image": "assets/chengalpattu/bs-abdur-rahman-crescent-institute.webp"
+      },
+      {
+        "sno": 5,
+        "name": "Hindustan Institute of Technology and Science (HITS)",
+        "location": "Padur, OMR",
+        "address": "Rajiv Gandhi Salai, OMR, Padur, Kelambakkam, Tamil Nadu 603103",
+        "type": "Deemed University",
+        "image": "assets/chengalpattu/hindustan-institute-of-technology-and-science.webp"
+      },
+      {
+        "sno": 6,
+        "name": "Asan Memorial College of Engineering and Technology",
+        "location": "Chengalpattu",
+        "address": "Oragadam Main Road, Asan Nagar, Thandarai, Chengalpet, Tamil Nadu 603105",
+        "type": "Self-Financing",
+        "image": "assets/chengalpattu/asan-memorial-college-of-engineering-and-technology.webp"
+      },
+      {
+        "sno": 7,
+        "name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+        "location": "Mamandur",
+        "address": "Chennai - Theni Hwy, Mamandur, Tamil Nadu 603111",
+        "type": "Self-Financing",
+        "image": "assets/chengalpattu/dhanalakshmi-srinivasan-college-of-engineering-and-technology.webp"
+      },
+      {
+        "sno": 8,
+        "name": "Shri Andal Alagar College of Engineering",
+        "location": "Mamandur",
+        "address": "Mamandur, Tamil Nadu",
+        "type": "Self-Financing",
+        "image": "assets/chengalpattu/shri-andal-alagar-college-of-engineering.webp"
+      }
+    ]
+  },
+  {
+    "slug": "chennai",
+    "name": "Chennai",
+    "zone": "Metropolitan Hub",
+    "count": 50,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Indian Institute of Technology Madras (IIT Madras)",
+        "location": "Adyar",
+        "type": "Institute of National Importance"
+      },
+      {
+        "sno": 2,
+        "name": "College of Engineering, Guindy (CEG - Anna University)",
+        "location": "Guindy",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Madras Institute of Technology (MIT - Anna University)",
+        "location": "Chromepet",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Alagappa College of Technology (ACTech - Anna University)",
+        "location": "Guindy",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "IIITDM Kancheepuram",
+        "location": "Melakottaiyur, Vandalur-Kelambakkam Road",
+        "type": "Institute of National Importance"
+      },
+      {
+        "sno": 6,
+        "name": "CIPET: IPT Chennai",
+        "location": "Guindy",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Indian Maritime University (IMU)",
+        "location": "Semmancheri",
+        "type": "Institute of National Importance"
+      },
+      {
+        "sno": 8,
+        "name": "SSN College of Engineering",
+        "location": "Kalavakkam, OMR",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Chennai Institute of Technology (CIT)",
+        "location": "Kundrathur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 10,
+        "name": "Shiv Nadar University",
+        "location": "Kalavakkam, OMR",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 11,
+        "name": "Rajalakshmi Engineering College (REC)",
+        "location": "Thandalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 12,
+        "name": "Sri Venkateswara College of Engineering (SVCE)",
+        "location": "Sriperumbudur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 13,
+        "name": "RMK Engineering College",
+        "location": "Kavaraipettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 14,
+        "name": "St. Joseph's College of Engineering",
+        "location": "OMR, Semmancheri",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 15,
+        "name": "Easwari Engineering College",
+        "location": "Ramapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 16,
+        "name": "Sri Sairam Engineering College",
+        "location": "West Tambaram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 17,
+        "name": "Rajalakshmi Institute of Technology (RIT)",
+        "location": "Kuthambakkam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 18,
+        "name": "R.M.D. Engineering College",
+        "location": "Kavaraipettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 19,
+        "name": "Meenakshi Sundararajan Engineering College (MSEC)",
+        "location": "Kodambakkam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 20,
+        "name": "Loyola-ICAM College of Engineering and Technology (LICET)",
+        "location": "Nungambakkam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 21,
+        "name": "Panimalar Engineering College",
+        "location": "Poonamallee",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 22,
+        "name": "St. Joseph's Institute of Technology",
+        "location": "OMR, Semmancheri",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 23,
+        "name": "Velammal Engineering College",
+        "location": "Surapet",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 24,
+        "name": "Sri Sairam Institute of Technology",
+        "location": "West Tambaram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 25,
+        "name": "Saveetha Engineering College",
+        "location": "Thandalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 26,
+        "name": "KCG College of Technology",
+        "location": "Karapakkam, OMR",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 27,
+        "name": "Prathyusha Engineering College",
+        "location": "Thiruvallur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 28,
+        "name": "S.A. Engineering College",
+        "location": "Thiruverkadu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 29,
+        "name": "Agni College of Technology",
+        "location": "Thalambur, OMR",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 30,
+        "name": "Jeppiaar Engineering College",
+        "location": "Semmancheri, OMR",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 31,
+        "name": "Anand Institute of Higher Technology",
+        "location": "Kazhipattur, OMR",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 32,
+        "name": "Velammal Institute of Technology",
+        "location": "Panchetti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 33,
+        "name": "DMI College of Engineering",
+        "location": "Palanchur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 34,
+        "name": "T.J.S Engineering College",
+        "location": "Kavaraipettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 35,
+        "name": "PERI Institute of Technology",
+        "location": "Mannivakkam, Tambaram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 36,
+        "name": "Dhanalakshmi College of Engineering",
+        "location": "Manimangalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 37,
+        "name": "Prince Shri Venkateshwara Padmavathy Engineering College",
+        "location": "Ponmar",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 38,
+        "name": "Tagore Engineering College",
+        "location": "Vandalur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 39,
+        "name": "Sri Krishna Engineering College",
+        "location": "Panapakkam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 40,
+        "name": "VIT Chennai",
+        "location": "Vandalur–Kelambakkam Road",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 41,
+        "name": "SRM Institute of Science and Technology (Main Campus)",
+        "location": "Kattankulathur",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 42,
+        "name": "SRM Institute of Science and Technology",
+        "location": "Ramapuram",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 43,
+        "name": "SRM Institute of Science and Technology",
+        "location": "Vadapalani",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 44,
+        "name": "Sathyabama Institute of Science and Technology",
+        "location": "Sholinganallur, OMR",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 45,
+        "name": "Hindustan Institute of Technology and Science (HITS)",
+        "location": "Padur, OMR",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 46,
+        "name": "Saveetha Institute of Medical and Technical Sciences (SIMATS)",
+        "location": "Thandalam",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 47,
+        "name": "B.S. Abdur Rahman Crescent Institute of Science and Technology",
+        "location": "Vandalur",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 48,
+        "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+        "location": "Avadi",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 49,
+        "name": "Dr. M.G.R. Educational and Research Institute",
+        "location": "Maduravoyal",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 50,
+        "name": "Bharath Institute of Higher Education and Research (BIHER)",
+        "location": "Selaiyur, Tambaram",
+        "type": "Deemed University"
+      }
+    ]
+  },
+  {
+    "slug": "coimbatore",
+    "name": "Coimbatore",
+    "zone": "Kongu Region",
+    "count": 50,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "PSG College of Technology (PSG Tech)",
+        "location": "Peelamedu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Coimbatore Institute of Technology (CIT)",
+        "location": "Peelamedu / Avinashi Road",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Government College of Technology (GCT)",
+        "location": "Thadagam Road",
+        "type": "Government"
+      },
+      {
+        "sno": 4,
+        "name": "Kumaraguru College of Technology (KCT)",
+        "location": "Chinnavedampatti / Saravanampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Sri Krishna College of Engineering and Technology (SKCET)",
+        "location": "Kuniyamuthur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "PSG Institute of Technology and Applied Research (PSG iTech)",
+        "location": "Neelambur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Sri Krishna College of Technology (SKCT)",
+        "location": "Kovaipudur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "KPR Institute of Engineering and Technology (KPRIET)",
+        "location": "Arasur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Sri Eshwar College of Engineering (SECE)",
+        "location": "Kondampatti, Kinathukadavu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 10,
+        "name": "Sri Ramakrishna Engineering College (SREC)",
+        "location": "Vattamalaipalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 11,
+        "name": "Amrita School of Engineering (Amrita Vishwa Vidyapeetham)",
+        "location": "Ettimadai",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 12,
+        "name": "Karunya Institute of Technology and Sciences",
+        "location": "Karunya Nagar",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 13,
+        "name": "Dr. Mahalingam College of Engineering and Technology (MCET)",
+        "location": "Pollachi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 14,
+        "name": "Karpagam College of Engineering",
+        "location": "Othakkalmandapam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 15,
+        "name": "Karpagam Institute of Technology",
+        "location": "Seerapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 16,
+        "name": "SNS College of Technology",
+        "location": "Saravanampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 17,
+        "name": "SNS College of Engineering",
+        "location": "Kurumbampalayam, Sathy Road",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 18,
+        "name": "Hindusthan College of Engineering and Technology (HICET)",
+        "location": "Othakkalmandapam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 19,
+        "name": "Hindusthan Institute of Technology (HIT)",
+        "location": "Othakkalmandapam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 20,
+        "name": "Sri Shakthi Institute of Engineering and Technology",
+        "location": "Chinniyampalayam / L&T Bypass",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 21,
+        "name": "Coimbatore Institute of Engineering and Technology (CIET)",
+        "location": "Narasipuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 22,
+        "name": "Anna University Regional Campus Coimbatore (AURCC)",
+        "location": "Jothipuram",
+        "type": "Government"
+      },
+      {
+        "sno": 23,
+        "name": "Rathinam Technical Campus",
+        "location": "Eachanari",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 24,
+        "name": "Dr. N.G.P. Institute of Technology",
+        "location": "Kalapatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 25,
+        "name": "Sri Ramakrishna Institute of Technology (SRIT)",
+        "location": "Pachapalayam, Perur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 26,
+        "name": "KGiSL Institute of Technology (KiTE)",
+        "location": "Saravanampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 27,
+        "name": "Jansons Institute of Technology",
+        "location": "Karumathampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 28,
+        "name": "Tamilnadu College of Engineering (TCE)",
+        "location": "Karumathampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 29,
+        "name": "Park College of Engineering and Technology",
+        "location": "Kaniyur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 30,
+        "name": "Nehru Institute of Engineering and Technology",
+        "location": "Thirumalayampalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 31,
+        "name": "Nehru Institute of Technology",
+        "location": "Kaliapuram, Thirumalayampalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 32,
+        "name": "Info Institute of Engineering",
+        "location": "Kovilpalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 33,
+        "name": "Adithya Institute of Technology",
+        "location": "Kurumbampalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 34,
+        "name": "Kathir College of Engineering",
+        "location": "Neelambur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 35,
+        "name": "Kalaignar Karunanidhi Institute of Technology (KIT)",
+        "location": "Kannampalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 36,
+        "name": "P.A. College of Engineering and Technology",
+        "location": "Pollachi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 37,
+        "name": "VSB College of Engineering Technical Campus",
+        "location": "Kinathukadavu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 38,
+        "name": "Akshaya College of Engineering and Technology",
+        "location": "Kinathukadavu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 39,
+        "name": "RVS College of Engineering and Technology",
+        "location": "Kannampalayam, Sulur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 40,
+        "name": "JCT College of Engineering and Technology",
+        "location": "Pichanur, Madukkarai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 41,
+        "name": "United Institute of Technology (UIT)",
+        "location": "Periyanaickenpalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 42,
+        "name": "PPG Institute of Technology",
+        "location": "Saravanampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 43,
+        "name": "Christ The King Engineering College",
+        "location": "Karamadai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 44,
+        "name": "Sri Ranganathar Institute of Engineering and Technology",
+        "location": "Athipalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 45,
+        "name": "Dhaanish Ahmed Institute of Technology",
+        "location": "Pichanur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 46,
+        "name": "Easa College of Engineering and Technology",
+        "location": "Navakkarai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 47,
+        "name": "Indus College of Engineering",
+        "location": "Alandurai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 48,
+        "name": "Sree Sakthi Engineering College",
+        "location": "Karamadai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 49,
+        "name": "Suguna College of Engineering",
+        "location": "Kalapatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 50,
+        "name": "Maharaja Institute of Technology",
+        "location": "Arasur",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "cuddalore",
+    "name": "Cuddalore",
+    "zone": "Delta Zone",
+    "count": 5,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Annamalai University (Faculty of Engg & Tech - FEAT)",
+        "location": "Annamalai Nagar, Chidambaram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "University College of Engineering Panruti",
+        "location": "Panruti",
+        "type": "Government"
+      },
+      {
+        "sno": 3,
+        "name": "Krishnasamy College of Engineering & Technology",
+        "location": "Nellikuppam Road, S.Kumarapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "MRK Institute of Technology",
+        "location": "Nattarmangalam, Kattumannarkoil",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "CK College of Engineering and Technology",
+        "location": "Chellangkuppam",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "dharmapuri",
+    "name": "Dharmapuri",
+    "zone": "Northern Zone",
+    "count": 4,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Government College of Engineering (GCE Dharmapuri)",
+        "location": "Settikarai",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "Jayalakshmi Institute of Technology (JIT)",
+        "location": "Thoppur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Varuvan Vadivelan Institute of Technology",
+        "location": "Gundalapatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Jayam College of Engineering and Technology",
+        "location": "Nallanur",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "dindigul",
+    "name": "Dindigul",
+    "zone": "Southern Zone",
+    "count": 7,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "PSNA College of Engineering and Technology",
+        "location": "Muthuhanampatty",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "SSM Institute of Engineering and Technology",
+        "location": "Kuttathupatti, Palani Highway",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "University College of Engineering Dindigul",
+        "location": "RVS Nagar, Reddiarchatram",
+        "type": "Government"
+      },
+      {
+        "sno": 4,
+        "name": "RVS College of Engineering and Technology",
+        "location": "RVS Nagar, Karur Road",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Christian College of Engineering and Technology",
+        "location": "Oddanchatram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "NPR College of Engineering and Technology",
+        "location": "Natham",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Gandhigram Rural Institute (Dept of Engineering)",
+        "location": "Gandhigram",
+        "type": "Deemed University"
+      }
+    ]
+  },
+  {
+    "slug": "erode",
+    "name": "Erode",
+    "zone": "Kongu Region",
+    "count": 9,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Kongu Engineering College (KEC)",
+        "location": "Perundurai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Bannari Amman Institute of Technology (BIT)",
+        "location": "Sathyamangalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Velalar College of Engineering and Technology (VCET)",
+        "location": "Thindal",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Nandha Engineering College (Autonomous)",
+        "location": "Vaikkaalmedu, Perundurai Road",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 5,
+        "name": "Nandha College of Technology",
+        "location": "Perundurai Road",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Erode Sengunthar Engineering College",
+        "location": "Thudupathi, Perundurai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Al-Ameen Engineering College",
+        "location": "Karundevanpalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Surya Engineering College",
+        "location": "Mettukadai, Kathirampatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "J.K.K. Munirajah College of Technology",
+        "location": "T.N. Palayam, Gobi",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "kanchipuram",
+    "name": "Kanchipuram",
+    "zone": "Chennai Metro Region",
+    "count": 9,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Sri Venkateswara College of Engineering (SVCE)",
+        "location": "Pennalur, Sriperumbudur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Saveetha Engineering College",
+        "location": "Thandalam, Sriperumbudur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Rajalakshmi Engineering College (REC)",
+        "location": "Thandalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Rajalakshmi Institute of Technology (RIT)",
+        "location": "Kuthambakkam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Loyola Institute of Technology",
+        "location": "Palanchur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Jeppiaar Institute of Technology",
+        "location": "Kunnam, Sunguvarchatram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Lord Venkateshwaraa Engineering College",
+        "location": "Walajabad",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Pallavan College of Engineering",
+        "location": "Thimmasamudram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "University College of Engineering Kancheepuram",
+        "location": "Karaipettai",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "slug": "kanyakumari",
+    "name": "Kanyakumari",
+    "zone": "Southern Zone",
+    "count": 9,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Noorul Islam Centre for Higher Education (NICHE)",
+        "location": "Kumaracoil, Thuckalay",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 2,
+        "name": "University College of Engineering Nagercoil",
+        "location": "Konam",
+        "type": "Government"
+      },
+      {
+        "sno": 3,
+        "name": "St. Xavier’s Catholic College of Engineering",
+        "location": "Chunkankadai, Nagercoil",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Mar Ephraem College of Engineering and Technology",
+        "location": "Malankara Hills, Elavuvilai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Bethlahem Institute of Engineering",
+        "location": "Karungal",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Ponjesly College of Engineering",
+        "location": "Parvathipuram, Nagercoil",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Rohini College of Engineering and Technology",
+        "location": "Anjugramam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Lourdes Mount College of Engineering and Technology",
+        "location": "Chundavilai, Mullanganavilai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Stella Mary’s College of Engineering",
+        "location": "Aruthenganvilai, Azhikal",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "karur",
+    "name": "Karur",
+    "zone": "Kongu Region",
+    "count": 4,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "M. Kumarasamy College of Engineering (MKCE - Autonomous)",
+        "location": "Thalavapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "VSB Engineering College (Autonomous)",
+        "location": "Covai Road, Karudayampalayam",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 3,
+        "name": "Chettinad College of Engineering and Technology",
+        "location": "NH 67, Puliyur CF",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Karur College of Engineering",
+        "location": "Kuppam",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "krishnagiri",
+    "name": "Krishnagiri",
+    "zone": "Northern Zone",
+    "count": 4,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Government College of Engineering, Bargur (GCE Bargur)",
+        "location": "Bargur",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "Adhiyamaan College of Engineering (ACE)",
+        "location": "Hosur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Er. Perumal Manimekalai College of Engineering (PMC TECH)",
+        "location": "Koneripalli, Hosur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "PSV College of Engineering and Technology",
+        "location": "Mittapalli, Balinayanapalli",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "madurai",
+    "name": "Madurai",
+    "zone": "Southern Zone",
+    "count": 9,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Thiagarajar College of Engineering (TCE)",
+        "location": "Thiruparankundram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Velammal College of Engineering and Technology (VCET)",
+        "location": "Viraganoor",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Anna University Regional Campus Madurai",
+        "location": "Keelakuilkudi",
+        "type": "Government"
+      },
+      {
+        "sno": 4,
+        "name": "KLN College of Engineering (KLNCE)",
+        "location": "Pottapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "KLN College of Information Technology (KLNCIT)",
+        "location": "Pottapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Ultra College of Engineering and Technology for Women",
+        "location": "Madurai-Chennai Highway",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Solamalai College of Engineering",
+        "location": "Veerapanjan",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Fathima Michael College of Engineering & Technology",
+        "location": "Madurai-Sivagangai Main Road",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Vaigai College of Engineering",
+        "location": "Therkutheru, Melur",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "namakkal",
+    "name": "Namakkal",
+    "zone": "Kongu Region",
+    "count": 14,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "K.S. Rangasamy College of Technology (KSRCT)",
+        "location": "Tiruchengode",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "K.S.R. College of Engineering (KSRCE)",
+        "location": "Tiruchengode",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Vivekanandha College of Engineering for Women (Autonomous)",
+        "location": "Elayampalayam, Tiruchengode",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 4,
+        "name": "Vivekanandha Institute of Engineering and Technology for Women",
+        "location": "Elayampalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Paavai Engineering College (Autonomous)",
+        "location": "Pachal",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 6,
+        "name": "Pavai College of Technology",
+        "location": "Pachal",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Mahendra Engineering College (Autonomous)",
+        "location": "Mallasamudram",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 8,
+        "name": "Mahendra Institute of Technology",
+        "location": "Mallasamudram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Muthayammal Engineering College (Autonomous)",
+        "location": "Rasipuram",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 10,
+        "name": "Muthayammal College of Engineering",
+        "location": "Rasipuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 11,
+        "name": "Excel Engineering College (Autonomous)",
+        "location": "Komarapalayam",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 12,
+        "name": "Excel College of Engineering and Technology",
+        "location": "Komarapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 13,
+        "name": "Gnanamani College of Technology",
+        "location": "Pachal",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 14,
+        "name": "PGP College of Engineering and Technology",
+        "location": "Paramathi",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "pudukkottai",
+    "name": "Pudukkottai",
+    "zone": "Delta Zone",
+    "count": 5,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Government College of Engineering, Pudukkottai",
+        "location": "Chettitheru, Gandarvakottai",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "University College of Engineering Aranthangi",
+        "location": "Aranthangi",
+        "type": "Government"
+      },
+      {
+        "sno": 3,
+        "name": "Mount Zion College of Engineering and Technology",
+        "location": "Pilivalam, Thirumayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "M.N.S.K. College of Engineering",
+        "location": "Dhakshinapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Sudharsan Engineering College",
+        "location": "Sathiyamangalam, Kulathur",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "salem",
+    "name": "Salem",
+    "zone": "Kongu Region",
+    "count": 10,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Government College of Engineering (GCE Salem)",
+        "location": "Karuppur",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "Sona College of Technology",
+        "location": "Suramangalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Knowledge Institute of Technology (KIOT)",
+        "location": "Kakapalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "AVS Engineering College",
+        "location": "Ammapet",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Dhirajlal Gandhi College of Technology (DGCT)",
+        "location": "Sikkanampatty, Omalur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "AVS College of Technology",
+        "location": "Attur Main Road, Chinnagoundanur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Salem College of Engineering and Technology",
+        "location": "Panamarathupatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Tagore Institute of Engineering and Technology",
+        "location": "Deviyakurichi, Attur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Shree Sathyam College of Engineering and Technology",
+        "location": "Sankari",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 10,
+        "name": "The Kavery Engineering College",
+        "location": "Mecheri",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "sivagangai",
+    "name": "Sivagangai",
+    "zone": "Southern Zone",
+    "count": 5,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Alagappa Chettiar Govt College of Engg & Tech (ACGCET)",
+        "location": "Karaikudi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "CSIR - Central Electrochemical Research Institute (CECRI)",
+        "location": "Karaikudi",
+        "type": "Government"
+      },
+      {
+        "sno": 3,
+        "name": "KLN College of Engineering",
+        "location": "Pottapalayam (Sivagangai Border)",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Pandian Saraswathi Yadav Engineering College",
+        "location": "Arasanoor, Thirumansolai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Mount Zion Silver Jubilee College of Engineering",
+        "location": "Sivagangai Road",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "thanjavur",
+    "name": "Thanjavur",
+    "zone": "Delta Zone",
+    "count": 7,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "SASTRA Deemed University",
+        "location": "Tirumalaisamudram",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 2,
+        "name": "Periyar Maniammai Institute of Science & Technology (PMIST)",
+        "location": "Vallam",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 3,
+        "name": "PRIST Deemed University",
+        "location": "Vallam",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 4,
+        "name": "Government College of Engineering (GCE Thanjavur)",
+        "location": "Sengipatti",
+        "type": "Government"
+      },
+      {
+        "sno": 5,
+        "name": "Kings College of Engineering",
+        "location": "Punalkulam, Gandarvakottai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Parisutham Institute of Technology and Science (PITS)",
+        "location": "Ring Road, Nanjikottai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Anjalai Ammal-Mahalingam Engineering College (AAMEC)",
+        "location": "Kovilvenni",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "theni",
+    "name": "Theni",
+    "zone": "Southern Zone",
+    "count": 3,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Nadar Saraswathi College of Engineering and Technology",
+        "location": "Vadapudupatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Bharath Niketan Engineering College",
+        "location": "Thimmarasanaickanoor, Aundipatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Theni Kammavar Sangam College of Technology",
+        "location": "Koduvilarpatti",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "thoothukudi",
+    "name": "Thoothukudi",
+    "zone": "Southern Zone",
+    "count": 5,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "University College of Engineering Thoothukudi",
+        "location": "Millerpuram",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "National Engineering College (NEC)",
+        "location": "K.R. Nagar, Kovilpatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Chandy College of Engineering",
+        "location": "Muthiahpuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Jayaraj Annapackiam CSI College of Engineering",
+        "location": "Nazareth",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Infant Jesus College of Engineering",
+        "location": "Ellanayakkanpatti",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "tiruchirappalli",
+    "name": "Tiruchirappalli",
+    "zone": "Central Zone",
+    "count": 14,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "National Institute of Technology (NIT Trichy)",
+        "location": "Thuvakudi",
+        "type": "Institute of National Importance"
+      },
+      {
+        "sno": 2,
+        "name": "Indian Institute of Information Technology (IIIT Trichy)",
+        "location": "Sethurappatti",
+        "type": "Institute of National Importance"
+      },
+      {
+        "sno": 3,
+        "name": "University College of Engineering (Anna University BIT Campus)",
+        "location": "Mandaiyur",
+        "type": "Government"
+      },
+      {
+        "sno": 4,
+        "name": "Saranathan College of Engineering",
+        "location": "Panjappur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "K. Ramakrishnan College of Engineering (KRCE)",
+        "location": "Samayapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "K. Ramakrishnan College of Technology (KRCT)",
+        "location": "Samayapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "M.A.M. College of Engineering and Technology",
+        "location": "Siruganur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "M.A.M. College of Engineering",
+        "location": "Siruganur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "M.A.M. School of Engineering",
+        "location": "Siruganur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 10,
+        "name": "CARE College of Engineering",
+        "location": "Thayanoor",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 11,
+        "name": "Shivani Engineering College",
+        "location": "Poolangulathupatti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 12,
+        "name": "Oxford Engineering College",
+        "location": "Pirattiyur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 13,
+        "name": "Imayam College of Engineering",
+        "location": "Kannanur, Thuraiyur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 14,
+        "name": "Kongunadu College of Engineering and Technology",
+        "location": "Tholurpatti, Thottiyam",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "tirunelveli",
+    "name": "Tirunelveli",
+    "zone": "Southern Zone",
+    "count": 9,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Government College of Engineering (GCE Tirunelveli)",
+        "location": "Perumalpuram",
+        "type": "Government"
+      },
+      {
+        "sno": 2,
+        "name": "Francis Xavier Engineering College (FXEC)",
+        "location": "Vannarpettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "National College of Engineering",
+        "location": "Maruthakulam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "PSN College of Engineering and Technology",
+        "location": "Melathediyoor",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "PSN Institute of Technology and Science",
+        "location": "Melathediyoor",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Einstein College of Engineering",
+        "location": "Seethaparpanallur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "SCAD College of Engineering and Technology",
+        "location": "Cheranmahadevi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "Universal College of Engineering and Technology",
+        "location": "Radhapuram",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "Anna University Regional Campus Tirunelveli",
+        "location": "Palayamkottai",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "slug": "tiruppur",
+    "name": "Tiruppur",
+    "zone": "Kongu Region",
+    "count": 4,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Jai Shriram Engineering College",
+        "location": "Dharapuram Road, Avinashipalayam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "Sasurie College of Engineering",
+        "location": "Vijayamangalam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "Angel College of Engineering and Technology",
+        "location": "Dharapuram Main Road, Ugayanur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Professional Group of Institutions (Faculty of Engineering)",
+        "location": "Palladam",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "tiruvallur",
+    "name": "Tiruvallur",
+    "zone": "Chennai Metro Region",
+    "count": 10,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "R.M.K. Engineering College",
+        "location": "Kavaraipettai, Gummidipoondi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 2,
+        "name": "R.M.D. Engineering College",
+        "location": "Kavaraipettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "R.M.K. College of Engineering and Technology",
+        "location": "Puduvoyal",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Velammal Institute of Technology",
+        "location": "Panchetti",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "Prathyusha Engineering College",
+        "location": "Aranvoyalkuppam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "S.A. Engineering College",
+        "location": "Veeraraghavapuram, Thiruverkadu",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 7,
+        "name": "Jaya Engineering College",
+        "location": "Thiruninravur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 8,
+        "name": "John Bosco Engineering College",
+        "location": "Tiruvallur",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 9,
+        "name": "T.J.S Engineering College",
+        "location": "Peruvoyal, Kavaraipettai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 10,
+        "name": "Sri Venkateswara College of Technology",
+        "location": "Vadakal",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "vellore",
+    "name": "Vellore",
+    "zone": "Northern Zone",
+    "count": 6,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Vellore Institute of Technology (VIT Main Campus)",
+        "location": "Katpadi",
+        "type": "Deemed University"
+      },
+      {
+        "sno": 2,
+        "name": "Thanthai Periyar Government Institute of Technology (TPGIT)",
+        "location": "Bagayam",
+        "type": "Government"
+      },
+      {
+        "sno": 3,
+        "name": "Kingston Engineering College",
+        "location": "Chithoor Main Road, Katpadi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 4,
+        "name": "Adhiparasakthi College of Engineering",
+        "location": "Kalavai",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "C. Abdul Hakeem College of Engineering & Technology",
+        "location": "Melvisharam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Global Institute of Engineering and Technology",
+        "location": "Melvisharam",
+        "type": "Self-Financing"
+      }
+    ]
+  },
+  {
+    "slug": "virudhunagar",
+    "name": "Virudhunagar",
+    "zone": "Southern Zone",
+    "count": 6,
+    "colleges": [
+      {
+        "sno": 1,
+        "name": "Mepco Schlenk Engineering College (Autonomous)",
+        "location": "Sivakasi",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 2,
+        "name": "Kamaraj College of Engineering and Technology (KCET)",
+        "location": "K.Vellakulam",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 3,
+        "name": "P.S.R. Engineering College (Autonomous)",
+        "location": "Sevalpatti, Sivakasi",
+        "type": "Autonomous"
+      },
+      {
+        "sno": 4,
+        "name": "P.S.R. Rengasamy College of Engineering for Women",
+        "location": "Sivakasi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 5,
+        "name": "AAA College of Engineering and Technology",
+        "location": "Amathur, Sivakasi",
+        "type": "Self-Financing"
+      },
+      {
+        "sno": 6,
+        "name": "Sree Sowdambika College of Engineering",
+        "location": "Chettikurichi, Aruppukottai",
+        "type": "Self-Financing"
+      }
+    ]
+  }
+]
